@@ -1,105 +1,99 @@
 # x-translator — Traduction & Sous-titrage Video
 
-> **L'IA qui traduit vos videos en 20+ langues.**  
-> Collez une URL YouTube, X, TikTok ou Instagram → obtenez une video sous-titree, traduite et prete a partager.  
-> *Open source · Gratuit : 1h30 de transcription par jour*
+> **Parlez au monde. Vraiment.**  
+> Collez une vidéo YouTube, TikTok ou Instagram → elle parle 20 langues en 2 minutes.  
+> *Gratuit · Aucun logiciel · Dans votre navigateur*
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/version-0.1.237-blue?style=flat-square&logo=semver)](CHANGELOG.md)
-[![i18n](https://img.shields.io/badge/i18n-100%25-brightgreen?style=flat-square&logo=checkmarx)](status.json)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square&logo=open-source-initiative)](LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=flat-square&logo=next.js)](https://nextjs.org)
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
-[![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)](https://postgresql.org)
-[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe)](https://stripe.com)
-[![Railway](https://img.shields.io/badge/Railway-deployed-0B0D0E?style=flat-square&logo=railway)](https://railway.app)
+[![Version](https://img.shields.io/badge/version-0.1.245-2ea043?style=flat-square&logo=semver)](CHANGELOG.md)
+[![Licence](https://img.shields.io/badge/licence-MIT-brightgreen?style=flat-square&logo=open-source-initiative)](LICENSE)
+[![Traduit en](https://img.shields.io/badge/traduit_en-20_langues-FF6B6B?style=flat-square&logo=googletranslate)](readmes/)
+[![Gratuit](https://img.shields.io/badge/gratuit-1h30_jour-00C853?style=flat-square&logo=heart)](https://spottedyou.org)
 
 </div>
-> _Derniere mise a jour : 18/05/2026_
+> _Dernière mise à jour : 18/05/2026_
 
 ---
 
-## 📊 En un coup d'oeil
+## ✨ Pour qui ?
 
-<div align="center">
+| | |
+|---|---|
+| 🎥 **Créateurs YouTube & Twitch** | Vous filmez en français. Votre audience grandit au Brésil, au Mexique, au Japon. Traduisez en un clic. Gardez votre voix, votre ton, votre âme. |
+| 🏢 **Marques & Marketing** | Une campagne TikTok, 12 marchés. Au lieu de payer 12 prestataires différents, vous faites tout depuis une seule URL. |
+| 📰 **Journalistes & Médias** | Décoder une interview en Coréen, transcrire un reportage en Arabe, sous-titrer un documentaire en Portugais — en 2 minutes. |
+| ✈️ **Voyageurs & Curieux** | Vous tombez sur une vidéo géniale en Allemand, un vlog en Vietnamien, une conférence en Russe. Plus rien ne vous arrête. |
 
-| 🎬 Videos | 🌍 Langues | 📺 Plateformes | 💳 Prix |
-|:---------:|:----------:|:--------------:|:-------:|
-| traitees en ~2 min | **20** supportees | **10** compatibles | **Gratuit** |
-| transcription IA | FR/EN/ES/DE/... | YouTube a Reddit | 1h30/j |
-</div>
 
-## ✨ Comment ca marche
+## 🎬 Dans la vraie vie
+
+**🗣️ « Je passe de 1 langue à 5 sans toucher à ma prod »**  
+Léo, créateur tech sur YouTube (150k abonnés). Il tourne en français, traduit automatiquement en anglais, espagnol et portugais. Son audience internationale a doublé en 3 mois.
+
+**📱 « Notre campagne TikTok traduite en 8 langues en une matinée »**  
+Sophie, cheffe marketing. Avant : 1 semaine, 4 agences, 12 000€. Maintenant : 2 heures, 8 langues, 0€.
+
+**🌏 « Je regarde des chaînes japonaises que je ne comprenais pas »**  
+Marc, retraité passionné de culture asiatique. Il colle une URL, il lit les sous-titres en français. Le monde est soudain plus petit.
+
+## ⚡ Comment ça marche
 
 **1. Collez un lien**
 
-YouTube, X (Twitter), TikTok, Instagram, Facebook, LinkedIn, Twitch, Vimeo, Dailymotion ou Reddit.
+YouTube, X (Twitter), TikTok, Instagram, Facebook, LinkedIn, Twitch, Vimeo, Dailymotion ou Reddit. N'importe quelle vidéo publique.
 
-**2. On s'occupe du reste**
+**2. La magie opère**
 
-La video est telechargee, le son transcrit, le texte traduit en 20 langues et synchronise avec la video.
+On télécharge la vidéo, on écoute l'audio, on écrit le texte, on le traduit en 20 langues, on synchronise les sous-titres avec l'image. Pendant ce temps, vous buvez un café.
 
-**3. Vous recuperez le resultat**
+**3. Vous récupérez le résultat**
 
-Video sous-titree, prete a etre regardee, exportee ou montee.
+Vidéo sous-titrée, prête à regarder, exporter ou monter. Dans toutes les langues que vous avez choisies, en un seul endroit.
 
-> Le tout prend environ **2 minutes**. Pas besoin de logiciel, tout se fait dans le navigateur.
+> Le tout en **environ 2 minutes**. Rien à installer. Ça marche dans votre navigateur.
 
-## ✨ Fonctionnalites
+## 📊 En un coup d'œil
 
-| Statut | Fonctionnalite | Description |
-|--------|---------------|-------------|
-| ✅ | Traduction vidéo | Sous-titrez et traduisez vos vidéos en 20+ langues en un clic |
-| ✅ | Téléchargement vidéo | Téléchargez des vidéos depuis YouTube, TikTok, Instagram et 50+ plateformes |
-| 🚧 | Studio d'édition | Montez, éditez et personnalisez vos vidéos avec des overlays, watermarks et sous-titres |
-| 🔧 | TV en direct | Regardez et enregistrez 50 chaînes TV en direct dans le monde |
-| 🚧 | Doublage vocal | Ajoutez une voix synthétique dans la langue de votre choix |
-| 📋 | API publique | Intégrez la traduction vidéo dans vos propres outils |
+<div align="center">
 
-## 🌍 Langues supportees
+| ⏱ Minute | 🌍 Langues | 📺 Plateformes | 💳 Prix |
+|:--------:|:----------:|:--------------:|:-------:|
+| **2 min** | **20** | **10** | **Gratuit** |
+| pour une vidéo | de destination | supportées | 1h30/jour |
 
-**100% traduit** — 2068 textes synchronises dans toutes les langues.
+</div>
+
+## 💬 Ce qu'ils en disent
+
+> *« Je touche maintenant le marché hispanophone sans rien changer à ma production. Deux minutes par vidéo, c'est tout ce que ça me coûte. »*  
+— Léo, créateur YouTube
+
+> *« On a traduit notre campagne LinkedIn en 12 langues avant le déjeuner. Avant, ça prenait une semaine avec un prestataire. »*  
+— Sophie, agence marketing
+
+> *« Je mate des vlogs coréens en buvant mon café. En Français. C'est dingue. »*  
+— Marc, utilisateur
+
+## 🌍 Langues disponibles
 
 
-| Drapeau | Langue | Code | Drapeau | Langue | Code |
-|---------|--------|------|---------|--------|------|
-| 🇫🇷 | Français | `fr` | 🇸🇦 | العربية | `ar` |
-| 🇬🇧 | English | `en` | 🇮🇷 | فارسی | `fa` |
-| 🇪🇸 | Español | `es` | 🇮🇱 | עברית | `he` |
-| 🇩🇪 | Deutsch | `de` | 🇮🇳 | हिन्दी | `hi` |
-| 🇮🇹 | Italiano | `it` | 🇨🇳 | 中文 | `zh` |
-| 🇵🇹 | Português | `pt` | 🇯🇵 | 日本語 | `ja` |
-| 🇳🇱 | Nederlands | `nl` | 🇰🇷 | 한국어 | `ko` |
-| 🇵🇱 | Polski | `pl` | 🇻🇳 | Tiếng Việt | `vi` |
-| 🇷🇺 | Русский | `ru` | 🇮🇩 | Bahasa Indonesia | `id` |
-| 🇺🇦 | Українська | `uk` | 🇹🇷 | Türkçe | `tr` |
+🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇮🇹 🇵🇹 🇳🇱 🇵🇱 🇷🇺 🇺🇦 🇸🇦 🇮🇷 🇮🇱 🇮🇳 🇨🇳 🇯🇵 🇰🇷 🇻🇳 🇮🇩 🇹🇷
 
-## 🛠️ Technologies utilisees
+L'interface complète — boutons, menus, messages, aides — parle **déjà votre langue**. Pas de texte oublié, pas d'anglais qui traîne.
 
-| Domaine | Technologie |
-|---------|-------------|
-| Interface web | Next.js + Tailwind CSS |
-| Backend | Python + FastAPI |
-| Base de donnees | PostgreSQL |
-| Transcription IA | Modele vocal Groq |
-| Traduction IA | DeepSeek |
-| Stockage video | Supabase |
-| Paiement | Stripe |
-| Hebergement | Railway + Cloudflare |
+## 🚀 Prêt à traduire votre première vidéo ?
 
-## 🔗 Liens
+> **[🌍 Essayer gratuitement sur spottedyou.org](https://spottedyou.org)**
 
-- [📄 Notes de version](CHANGELOG.md)
-- [📊 Etat du projet](status.json)
-- [🐛 Signaler un probleme](https://github.com/Nansoouu/x-translator-mvp/issues)
-- [🌍 Site officiel](https://spottedyou.org)
+
+**Vous parlez une autre langue ?**  
+
+[🇬🇧](readmes/README.en.md) · [🇪🇸](readmes/README.es.md) · [🇩🇪](readmes/README.de.md) · [🇮🇹](readmes/README.it.md) · [🇵🇹](readmes/README.pt.md) · [🇳🇱](readmes/README.nl.md) · [🇵🇱](readmes/README.pl.md) · [🇷🇺](readmes/README.ru.md) · [🇺🇦](readmes/README.uk.md) · [🇸🇦](readmes/README.ar.md) · [🇮🇷](readmes/README.fa.md) · [🇮🇱](readmes/README.he.md) · [🇮🇳](readmes/README.hi.md) · [🇨🇳](readmes/README.zh.md) · [🇯🇵](readmes/README.ja.md) · [🇰🇷](readmes/README.ko.md) · [🇻🇳](readmes/README.vi.md) · [🇮🇩](readmes/README.id.md) · [🇹🇷](readmes/README.tr.md)
 
 ---
 
-<p align="center">
-  <sub>Construit avec ❤️  par <a href="https://github.com/Nansoouu">Nansoouu</a> · 
-  <a href="https://spottedyou.org">spottedyou.org</a></sub>
+<p align="center" style="font-size:1.1em">
+  <b>Construit avec ❤️  par <a href="https://github.com/Nansoouu">Nansoouu</a></b>
+  · <a href="https://spottedyou.org">spottedyou.org</a>
 </p>

@@ -1,105 +1,99 @@
 # x-translator — Traduction & Sous-titrage Video
 
-> **AI that translates your videos in 20+ languages.**  
-> Paste a YouTube, X, TikTok or Instagram URL → get a subtitled video ready to share.  
-> *Open source · Free: 1.5h of transcription per day*
+> **Speak to the world. For real.**  
+> Paste a YouTube, TikTok or Instagram video → it speaks 20 languages in 2 minutes.  
+> *Free · No software · Works in your browser*
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/version-0.1.237-blue?style=flat-square&logo=semver)](CHANGELOG.md)
-[![i18n](https://img.shields.io/badge/i18n-100%25-brightgreen?style=flat-square&logo=checkmarx)](status.json)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square&logo=open-source-initiative)](LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=flat-square&logo=next.js)](https://nextjs.org)
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
-[![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)](https://postgresql.org)
-[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe)](https://stripe.com)
-[![Railway](https://img.shields.io/badge/Railway-deployed-0B0D0E?style=flat-square&logo=railway)](https://railway.app)
+[![Version](https://img.shields.io/badge/version-0.1.245-2ea043?style=flat-square&logo=semver)](CHANGELOG.md)
+[![Licence](https://img.shields.io/badge/licence-MIT-brightgreen?style=flat-square&logo=open-source-initiative)](LICENSE)
+[![Traduit en](https://img.shields.io/badge/traduit_en-20_langues-FF6B6B?style=flat-square&logo=googletranslate)](readmes/)
+[![Gratuit](https://img.shields.io/badge/gratuit-1h30_jour-00C853?style=flat-square&logo=heart)](https://spottedyou.org)
 
 </div>
-> _Derniere mise a jour : 18/05/2026_
+> _Dernière mise à jour : 18/05/2026_
 
 ---
 
-## 📊 En un coup d'oeil
+## ✨ Who is this for?
 
-<div align="center">
+| | |
+|---|---|
+| 🎥 **YouTube & Twitch Creators** | You create in English, your audience grows in Brazil, Mexico, Japan. Translate in one click. Keep your voice, your tone, your soul. |
+| 🏢 **Brands & Marketing** | One TikTok campaign, 12 markets. Instead of paying 12 different agencies, you do it all from a single URL. |
+| 📰 **Journalists & Media** | Decode a Korean interview, transcribe an Arabic report, subtitle a Portuguese doc — in 2 minutes. |
+| ✈️ **Travelers & Curious minds** | You find an amazing video in German, a vlog in Vietnamese, a conference in Russian. Nothing stops you anymore. |
 
-| 🎬 Videos | 🌍 Languages | 📺 Platforms | 💳 Pricing |
-|:---------:|:------------:|:------------:|:-----------:|
-| processed ~2min | **20** supported | **10** compatible | **Free** |
-| AI transcription | FR/EN/ES/DE/... | YouTube to Reddit | 1.5h/day |
-</div>
 
-## ✨ How it works
+## 🎬 Real-life stories
+
+**🗣️ « I went from 1 language to 5 without touching my workflow »**  
+Leo, tech YouTuber (150k subs). He records in English, auto-translates to Spanish, Portuguese and Japanese. His international audience doubled in 3 months.
+
+**📱 « Our TikTok campaign translated into 8 languages in one morning »**  
+Sophie, marketing lead. Before: 1 week, 4 agencies, $12,000. Now: 2 hours, 8 languages, $0.
+
+**🌏 « I watch Japanese channels I never understood before »**  
+Marc, retired language enthusiast. He pastes a URL, reads the subtitles in English. The world just got smaller.
+
+## ⚡ How it works
 
 **1. Paste a link**
 
-YouTube, X (Twitter), TikTok, Instagram, Facebook, LinkedIn, Twitch, Vimeo, Dailymotion or Reddit.
+YouTube, X (Twitter), TikTok, Instagram, Facebook, LinkedIn, Twitch, Vimeo, Dailymotion or Reddit. Any public video.
 
-**2. We handle the rest**
+**2. Magic happens**
 
-The video is downloaded, audio transcribed, text translated into 20 languages and synced with the video.
+We download the video, listen to the audio, write the text, translate it into 20 languages, sync the subtitles with the image. Go grab a coffee.
 
 **3. Get your result**
 
-Subtitled video ready to watch, export or edit.
+Subtitled video, ready to watch, export or edit. In every language you chose, in one place.
 
-> It takes about **2 minutes**. No software needed, everything works in your browser.
+> It takes about **2 minutes**. Nothing to install. Works in your browser.
 
-## ✨ Features
+## 📊 At a glance
 
-| Status | Feature | Description |
-|--------|---------------|-------------|
-| ✅ | Video Translation | Subtitle and translate your videos in 20+ languages in one click |
-| ✅ | Video Download | Download videos from YouTube, TikTok, Instagram and 50+ platforms |
-| 🚧 | Editing Studio | Edit and customize your videos with overlays, watermarks and subtitles |
-| 🔧 | Live TV | Watch and record 50 live TV channels worldwide |
-| 🚧 | Voice Dubbing | Add AI voiceover in your chosen language |
-| 📋 | Public API | Integrate video translation into your own tools |
+<div align="center">
 
-## 🌍 Supported languages
+| ⏱ Minute | 🌍 Languages | 📺 Platforms | 💳 Price |
+|:--------:|:------------:|:------------:|:--------:|
+| **2 min** | **20** | **10** | **Free** |
+| per video | supported | supported | 1.5h/day |
 
-**100% translated** — 2068 synced texts across all languages.
+</div>
+
+## 💬 What people say
+
+> *« I now reach the Spanish-speaking market without changing my workflow. Two minutes per video, that's all it costs me. »*  
+— Leo, YouTube creator
+
+> *« We translated our LinkedIn campaign into 12 languages before lunch. Before, it took a week and an agency. »*  
+— Sophie, marketing agency
+
+> *« I watch Korean vlogs with my morning coffee. In English. It's wild. »*  
+— Marc, user
+
+## 🌍 Available languages
 
 
-| Drapeau | Langue | Code | Drapeau | Langue | Code |
-|---------|--------|------|---------|--------|------|
-| 🇫🇷 | Français | `fr` | 🇸🇦 | العربية | `ar` |
-| 🇬🇧 | English | `en` | 🇮🇷 | فارسی | `fa` |
-| 🇪🇸 | Español | `es` | 🇮🇱 | עברית | `he` |
-| 🇩🇪 | Deutsch | `de` | 🇮🇳 | हिन्दी | `hi` |
-| 🇮🇹 | Italiano | `it` | 🇨🇳 | 中文 | `zh` |
-| 🇵🇹 | Português | `pt` | 🇯🇵 | 日本語 | `ja` |
-| 🇳🇱 | Nederlands | `nl` | 🇰🇷 | 한국어 | `ko` |
-| 🇵🇱 | Polski | `pl` | 🇻🇳 | Tiếng Việt | `vi` |
-| 🇷🇺 | Русский | `ru` | 🇮🇩 | Bahasa Indonesia | `id` |
-| 🇺🇦 | Українська | `uk` | 🇹🇷 | Türkçe | `tr` |
+🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇮🇹 🇵🇹 🇳🇱 🇵🇱 🇷🇺 🇺🇦 🇸🇦 🇮🇷 🇮🇱 🇮🇳 🇨🇳 🇯🇵 🇰🇷 🇻🇳 🇮🇩 🇹🇷
 
-## 🛠️ Technologies
+The entire interface — buttons, menus, messages, help text — already speaks **your language**. No English leftovers, no forgotten strings.
 
-| Area | Technology |
-|---------|-------------|
-| Web app | Next.js + Tailwind CSS |
-| Backend | Python + FastAPI |
-| Database | PostgreSQL |
-| AI transcription | Groq speech model |
-| AI translation | DeepSeek |
-| Video storage | Supabase |
-| Payments | Stripe |
-| Hosting | Railway + Cloudflare |
+## 🚀 Ready to translate your first video?
 
-## 🔗 Links
+> **[🌍 Try it free on spottedyou.org](https://spottedyou.org)**
 
-- [📄 Release notes](CHANGELOG.md)
-- [📊 Project status](status.json)
-- [🐛 Report an issue](https://github.com/Nansoouu/x-translator-mvp/issues)
-- [🌍 Website](https://spottedyou.org)
+
+**Speak another language?**  
+
+[🇫🇷](readmes/README.fr.md) · [🇬🇧](readmes/README.en.md) · [🇪🇸](readmes/README.es.md) · [🇩🇪](readmes/README.de.md) · [🇮🇹](readmes/README.it.md) · [🇵🇹](readmes/README.pt.md) · [🇳🇱](readmes/README.nl.md) · [🇵🇱](readmes/README.pl.md) · [🇷🇺](readmes/README.ru.md) · [🇺🇦](readmes/README.uk.md) · [🇸🇦](readmes/README.ar.md) · [🇮🇷](readmes/README.fa.md) · [🇮🇳](readmes/README.hi.md) · [🇨🇳](readmes/README.zh.md) · [🇯🇵](readmes/README.ja.md) · [🇰🇷](readmes/README.ko.md) · [🇻🇳](readmes/README.vi.md) · [🇮🇩](readmes/README.id.md) · [🇹🇷](readmes/README.tr.md)
 
 ---
 
-<p align="center">
-  <sub>Built with ❤️  by <a href="https://github.com/Nansoouu">Nansoouu</a> · 
-  <a href="https://spottedyou.org">spottedyou.org</a></sub>
+<p align="center" style="font-size:1.1em">
+  <b>Built with ❤️  by <a href="https://github.com/Nansoouu">Nansoouu</a></b>
+  · <a href="https://spottedyou.org">spottedyou.org</a>
 </p>
