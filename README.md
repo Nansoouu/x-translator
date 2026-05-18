@@ -100,6 +100,6 @@ Video sous-titree, prete a etre regardee, exportee ou montee.
 ---
 
 <p align="center">
-  <sub>Construit avec ❤️ par <a href="https://github.com/Nansoouu">Nansoouu</a> · 
+  <sub>Construit avec ❤️  par <a href="https://github.com/Nansoouu">Nansoouu</a> · 
   <a href="https://spottedyou.org">spottedyou.org</a></sub>
 </p>
