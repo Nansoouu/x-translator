@@ -1,18 +1,56 @@
-# x-translator — Traduction & Sous-titrage Vidéo
+# x-translator — Traduction & Sous-titrage Video
 
-> _Dernière mise à jour : 18/05/2026 15:42 UTC_
+> **AI that translates your videos in 20+ languages.**  
+> Paste a YouTube, X, TikTok or Instagram URL → get a subtitled video ready to share.  
+> *Open source · Free: 1.5h of transcription per day*
 
-## 🎯 Présentation
+<div align="center">
 
-x-translator is an automatic video translation and subtitling platform. Translate, download, edit and broadcast videos in over 20 languages.
+[![Version](https://img.shields.io/badge/version-0.1.237-blue?style=flat-square&logo=semver)](CHANGELOG.md)
+[![i18n](https://img.shields.io/badge/i18n-100%25-brightgreen?style=flat-square&logo=checkmarx)](status.json)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square&logo=open-source-initiative)](LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=flat-square&logo=next.js)](https://nextjs.org)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
+[![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)](https://postgresql.org)
+[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe)](https://stripe.com)
+[![Railway](https://img.shields.io/badge/Railway-deployed-0B0D0E?style=flat-square&logo=railway)](https://railway.app)
 
-**Version :** `0.1.237`  
-**Langues supportées :** 20 🌍  
-**Anomalies de traduction :** ⚠️ 53  
+</div>
+> _Derniere mise a jour : 18/05/2026_
 
-## ✨ Fonctionnalités
+---
 
-| Statut | Fonctionnalité | Description |
+## 📊 En un coup d'oeil
+
+<div align="center">
+
+| 🎬 Videos | 🌍 Languages | 📺 Platforms | 💳 Pricing |
+|:---------:|:------------:|:------------:|:-----------:|
+| processed ~2min | **20** supported | **10** compatible | **Free** |
+| AI transcription | FR/EN/ES/DE/... | YouTube to Reddit | 1.5h/day |
+</div>
+
+## ✨ How it works
+
+**1. Paste a link**
+
+YouTube, X (Twitter), TikTok, Instagram, Facebook, LinkedIn, Twitch, Vimeo, Dailymotion or Reddit.
+
+**2. We handle the rest**
+
+The video is downloaded, audio transcribed, text translated into 20 languages and synced with the video.
+
+**3. Get your result**
+
+Subtitled video ready to watch, export or edit.
+
+> It takes about **2 minutes**. No software needed, everything works in your browser.
+
+## ✨ Features
+
+| Status | Feature | Description |
 |--------|---------------|-------------|
 | ✅ | Video Translation | Subtitle and translate your videos in 20+ languages in one click |
 | ✅ | Video Download | Download videos from YouTube, TikTok, Instagram and 50+ platforms |
@@ -21,48 +59,47 @@ x-translator is an automatic video translation and subtitling platform. Translat
 | 🚧 | Voice Dubbing | Add AI voiceover in your chosen language |
 | 📋 | Public API | Integrate video translation into your own tools |
 
-## 🌍 Couverture linguistique
+## 🌍 Supported languages
 
-The table below shows the completion percentage for each language. Click a link to read the dedicated page.
+**100% translated** — 2068 synced texts across all languages.
 
-| Drapeau | Langue | Code | Couverture | Lire la suite |
-|---------|-------|------|------------|---------------|
-| 🇫🇷 | Français | `fr` | ✅ 100% | [➡️ Lire](./README.md) |
-| 🇬🇧 | English | `en` | ✅ 100% | [➡️ Lire](./readmes/README.en.md) |
-| 🇪🇸 | Español | `es` | 97.7% | [➡️ Lire](./readmes/README.es.md) |
-| 🇩🇪 | Deutsch | `de` | 99.3% | [➡️ Lire](./readmes/README.de.md) |
-| 🇮🇹 | Italiano | `it` | 99.3% | [➡️ Lire](./readmes/README.it.md) |
-| 🇵🇹 | Português | `pt` | 99.3% | [➡️ Lire](./readmes/README.pt.md) |
-| 🇳🇱 | Nederlands | `nl` | 99.3% | [➡️ Lire](./readmes/README.nl.md) |
-| 🇵🇱 | Polski | `pl` | 99.3% | [➡️ Lire](./readmes/README.pl.md) |
-| 🇷🇺 | Русский | `ru` | 99.3% | [➡️ Lire](./readmes/README.ru.md) |
-| 🇺🇦 | Українська | `uk` | 99.3% | [➡️ Lire](./readmes/README.uk.md) |
-| 🇸🇦 | العربية | `ar` | 99.3% | [➡️ Lire](./readmes/README.ar.md) |
-| 🇮🇷 | فارسی | `fa` | 99.3% | [➡️ Lire](./readmes/README.fa.md) |
-| 🇮🇱 | עברית | `he` | 99.3% | [➡️ Lire](./readmes/README.he.md) |
-| 🇮🇳 | हिन्दी | `hi` | 99.3% | [➡️ Lire](./readmes/README.hi.md) |
-| 🇨🇳 | 中文 | `zh` | 99.3% | [➡️ Lire](./readmes/README.zh.md) |
-| 🇯🇵 | 日本語 | `ja` | 99.3% | [➡️ Lire](./readmes/README.ja.md) |
-| 🇰🇷 | 한국어 | `ko` | 99.3% | [➡️ Lire](./readmes/README.ko.md) |
-| 🇻🇳 | Tiếng Việt | `vi` | 99.3% | [➡️ Lire](./readmes/README.vi.md) |
-| 🇮🇩 | Bahasa Indonesia | `id` | 99.3% | [➡️ Lire](./readmes/README.id.md) |
-| 🇹🇷 | Türkçe | `tr` | 99.3% | [➡️ Lire](./readmes/README.tr.md) |
 
-## 📦 Notes de version
+| Drapeau | Langue | Code | Drapeau | Langue | Code |
+|---------|--------|------|---------|--------|------|
+| 🇫🇷 | Français | `fr` | 🇸🇦 | العربية | `ar` |
+| 🇬🇧 | English | `en` | 🇮🇷 | فارسی | `fa` |
+| 🇪🇸 | Español | `es` | 🇮🇱 | עברית | `he` |
+| 🇩🇪 | Deutsch | `de` | 🇮🇳 | हिन्दी | `hi` |
+| 🇮🇹 | Italiano | `it` | 🇨🇳 | 中文 | `zh` |
+| 🇵🇹 | Português | `pt` | 🇯🇵 | 日本語 | `ja` |
+| 🇳🇱 | Nederlands | `nl` | 🇰🇷 | 한국어 | `ko` |
+| 🇵🇱 | Polski | `pl` | 🇻🇳 | Tiếng Việt | `vi` |
+| 🇷🇺 | Русский | `ru` | 🇮🇩 | Bahasa Indonesia | `id` |
+| 🇺🇦 | Українська | `uk` | 🇹🇷 | Türkçe | `tr` |
 
-| Commit | Message | Date |
-|--------|---------|------|
-| `d8638c7` | 🐛 emojis dans les messages commit publics | 9 minutes ago |
-| `9b9a495` | 🐛 sanitize messages commit pour le public | 13 minutes ago |
-| `b8c75e4` | ✨ systeme generation automatique README 20 langues + status.json | 21 minutes ago |
-| `930a136` | ✨ metrics tracker — analyse codebase, ratio code/contenu, historique evolution | 22 minutes ago |
-| `faa80e7` | ✨ metrics tracker — analyse codebase, ratio code/contenu, historique evolution | 22 minutes ago |
-| `8d29029` | ✨ metrics tracker — analyse codebase, ratio code/contenu, historique evolution | 23 minutes ago |
-| `1130aa6` | ✨ 1 base OverlayPlayer + 3 specializations (PlayerJob, PlayerLive, PlayerStudio) + 5 overlays | 28 minutes ago |
-| `6023ce4` | 🔄 Mise à jour | 35 minutes ago |
+## 🛠️ Technologies
 
-## 🔗 Liens
+| Area | Technology |
+|---------|-------------|
+| Web app | Next.js + Tailwind CSS |
+| Backend | Python + FastAPI |
+| Database | PostgreSQL |
+| AI transcription | Groq speech model |
+| AI translation | DeepSeek |
+| Video storage | Supabase |
+| Payments | Stripe |
+| Hosting | Railway + Cloudflare |
 
-- [📄 Notes de version complètes](./CHANGELOG.md)
-- [🐛 Signaler un problème](https://github.com/Nansoouu/x-translator-mvp/issues)
-- [💬 Discussion](https://github.com/spottedyou/translator/discussions)
+## 🔗 Links
+
+- [📄 Release notes](CHANGELOG.md)
+- [📊 Project status](status.json)
+- [🐛 Report an issue](https://github.com/Nansoouu/x-translator-mvp/issues)
+- [🌍 Website](https://spottedyou.org)
+
+---
+
+<p align="center">
+  <sub>Built with ☕ by <a href="https://github.com/Nansoouu">Nans</a> · 
+  <a href="https://spottedyou.org">spottedyou.org</a></sub>
+</p>

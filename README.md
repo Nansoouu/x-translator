@@ -1,4 +1,4 @@
-# x-translator — Traduction & Sous-titrage Vidéo
+# x-translator — Traduction & Sous-titrage Video
 
 > **L'IA qui traduit vos videos en 20+ langues.**  
 > Collez une URL YouTube, X, TikTok ou Instagram → obtenez une video sous-titree, traduite et prete a partager.  
@@ -18,7 +18,6 @@
 [![Railway](https://img.shields.io/badge/Railway-deployed-0B0D0E?style=flat-square&logo=railway)](https://railway.app)
 
 </div>
-
 > _Derniere mise a jour : 18/05/2026_
 
 ---
@@ -31,54 +30,52 @@
 |:---------:|:----------:|:--------------:|:-------:|
 | traitees en ~2 min | **20** supportees | **10** compatibles | **Gratuit** |
 | transcription IA | FR/EN/ES/DE/... | YouTube a Reddit | 1h30/j |
-
 </div>
-
----
 
 ## ✨ Comment ca marche
 
-**1. Collez un lien** — YouTube, X (Twitter), TikTok, Instagram, Facebook, LinkedIn, Twitch, Vimeo, Dailymotion ou Reddit.
+**1. Collez un lien**
 
-**2. On s'occupe du reste** — La video est telechargee, le son transcrit, le texte traduit en 20 langues et synchronise avec la video.
+YouTube, X (Twitter), TikTok, Instagram, Facebook, LinkedIn, Twitch, Vimeo, Dailymotion ou Reddit.
 
-**3. Vous recuperez le resultat** — Video sous-titree, prete a etre regardee, exportee ou montee.
+**2. On s'occupe du reste**
+
+La video est telechargee, le son transcrit, le texte traduit en 20 langues et synchronise avec la video.
+
+**3. Vous recuperez le resultat**
+
+Video sous-titree, prete a etre regardee, exportee ou montee.
 
 > Le tout prend environ **2 minutes**. Pas besoin de logiciel, tout se fait dans le navigateur.
-
----
 
 ## ✨ Fonctionnalites
 
 | Statut | Fonctionnalite | Description |
 |--------|---------------|-------------|
-| ✅ | Traduction video | Sous-titrez et traduisez vos videos en 20+ langues en un clic |
-| ✅ | Telechargement video | Telechargez depuis YouTube, TikTok, Instagram et 50+ plateformes |
-| 🚧 | Studio d'edition | Montez, editez et personnalisez avec overlays, watermarks, sous-titres |
-| 🔧 | TV en direct | Regardez et enregistrez des chaines TV en direct dans le monde |
-| 🚧 | Doublage vocal | Ajoutez une voix synthetique dans la langue de votre choix |
-| 📋 | API publique | Integrez la traduction video dans vos propres outils |
-
----
+| ✅ | Traduction vidéo | Sous-titrez et traduisez vos vidéos en 20+ langues en un clic |
+| ✅ | Téléchargement vidéo | Téléchargez des vidéos depuis YouTube, TikTok, Instagram et 50+ plateformes |
+| 🚧 | Studio d'édition | Montez, éditez et personnalisez vos vidéos avec des overlays, watermarks et sous-titres |
+| 🔧 | TV en direct | Regardez et enregistrez 50 chaînes TV en direct dans le monde |
+| 🚧 | Doublage vocal | Ajoutez une voix synthétique dans la langue de votre choix |
+| 📋 | API publique | Intégrez la traduction vidéo dans vos propres outils |
 
 ## 🌍 Langues supportees
 
-**100% traduit** — 2 171 textes synchronises dans toutes les langues.
+**100% traduit** — 2068 textes synchronises dans toutes les langues.
+
 
 | Drapeau | Langue | Code | Drapeau | Langue | Code |
 |---------|--------|------|---------|--------|------|
-| 🇫🇷 | Francais | `fr` | 🇬🇧 | English | `en` |
-| 🇪🇸 | Espanol | `es` | 🇩🇪 | Deutsch | `de` |
-| 🇮🇹 | Italiano | `it` | 🇵🇹 | Portugues | `pt` |
-| 🇳🇱 | Nederlands | `nl` | 🇵🇱 | Polski | `pl` |
-| 🇷🇺 | Russkiy | `ru` | 🇺🇦 | Ukrainska | `uk` |
-| 🇸🇦 | Alarabia | `ar` | 🇮🇷 | Farsi | `fa` |
-| 🇮🇱 | Ivrit | `he` | 🇮🇳 | Hindi | `hi` |
-| 🇨🇳 | Zhongwen | `zh` | 🇯🇵 | Nihongo | `ja` |
-| 🇰🇷 | Hangugeo | `ko` | 🇻🇳 | Tieng Viet | `vi` |
-| 🇮🇩 | Bahasa Indonesia | `id` | 🇹🇷 | Turkce | `tr` |
-
----
+| 🇫🇷 | Français | `fr` | 🇸🇦 | العربية | `ar` |
+| 🇬🇧 | English | `en` | 🇮🇷 | فارسی | `fa` |
+| 🇪🇸 | Español | `es` | 🇮🇱 | עברית | `he` |
+| 🇩🇪 | Deutsch | `de` | 🇮🇳 | हिन्दी | `hi` |
+| 🇮🇹 | Italiano | `it` | 🇨🇳 | 中文 | `zh` |
+| 🇵🇹 | Português | `pt` | 🇯🇵 | 日本語 | `ja` |
+| 🇳🇱 | Nederlands | `nl` | 🇰🇷 | 한국어 | `ko` |
+| 🇵🇱 | Polski | `pl` | 🇻🇳 | Tiếng Việt | `vi` |
+| 🇷🇺 | Русский | `ru` | 🇮🇩 | Bahasa Indonesia | `id` |
+| 🇺🇦 | Українська | `uk` | 🇹🇷 | Türkçe | `tr` |
 
 ## 🛠️ Technologies utilisees
 
@@ -92,8 +89,6 @@
 | Stockage video | Supabase |
 | Paiement | Stripe |
 | Hebergement | Railway + Cloudflare |
-
----
 
 ## 🔗 Liens
 
