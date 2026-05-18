@@ -1,12 +1,12 @@
 # x-translator — Traduction & Sous-titrage Vidéo
 
-> _Dernière mise à jour : 18/05/2026 15:19 UTC_
+> _Dernière mise à jour : 18/05/2026 15:28 UTC_
 
 ## 🎯 Présentation
 
 x-translator is an automatic video translation and subtitling platform. Translate, download, edit and broadcast videos in over 20 languages.
 
-**Version :** `0.1.234`  
+**Version :** `0.1.237`  
 **Langues supportées :** 20 🌍  
 **Anomalies de traduction :** ⚠️ 53  
 
@@ -52,14 +52,14 @@ The table below shows the completion percentage for each language. Click a link 
 
 | Commit | Message | Date |
 |--------|---------|------|
-| `6023ce4` | Merge pull request #24 from Nansoouu/validate/hermes/i18n/fix-nav-features-link | 13 minutes ago |
-| `0255f3d` | fix(nav): lien Fonctionnalites pointe vers featuresHref au lieu de downloadHref — TICKET-0124 | 20 minutes ago |
-| `c44a088` | Merge pull request #23 from Nansoouu/validate/hermes/ui/refonte-auth | 28 minutes ago |
-| `4fb1f66` | feat(ui): 4 animations mockup features (download, translate, studio, live) — 🎫 TICKET-0116 | 51 minutes ago |
-| `602f41d` | feat(ui): squelette page fonctionnalites — hero, nav 2x2, 4 blocs alternes, FAQ dynamique — 🎫 TICKET-0116 | 53 minutes ago |
-| `f2702f4` | Merge pull request #22 from Nansoouu/validate/hermes/seo/phase2-quickwins | 28 minutes ago |
-| `ad0ae62` | feat(seo): analyse link juice Reasonable Surfer + 35 recommandations | 55 minutes ago |
-| `4b0d788` | feat(seo): module longue traîne + intégration run_all + cron hebdo | 60 minutes ago |
+| `b8c75e4` | systeme generation automatique README 20 langues + status.json | 8 minutes ago |
+| `930a136` | metrics tracker — analyse codebase, ratio code/contenu, historique evolution | 8 minutes ago |
+| `faa80e7` | metrics tracker — analyse codebase, ratio code/contenu, historique evolution | 9 minutes ago |
+| `8d29029` | metrics tracker — analyse codebase, ratio code/contenu, historique evolution | 9 minutes ago |
+| `1130aa6` | 1 base OverlayPlayer + 3 specializations (PlayerJob, PlayerLive, PlayerStudio) + 5 overlays | 15 minutes ago |
+| `6023ce4` | Mise à jour | 22 minutes ago |
+| `0255f3d` | lien Fonctionnalites pointe vers featuresHref au lieu de downloadHref | 29 minutes ago |
+| `c44a088` | Mise à jour | 37 minutes ago |
 
 ## 🔗 Liens
 
