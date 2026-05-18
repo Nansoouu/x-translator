@@ -1,6 +1,6 @@
 # x-translator — Traduction & Sous-titrage Vidéo
 
-> _Dernière mise à jour : 18/05/2026 15:30 UTC_
+> _Dernière mise à jour : 18/05/2026 15:33 UTC_
 
 ## 🎯 Présentation
 
@@ -52,14 +52,14 @@ The table below shows the completion percentage for each language. Click a link 
 
 | Commit | Message | Date |
 |--------|---------|------|
-| `9b9a495` | sanitize messages commit pour le public | 57 seconds ago |
-| `b8c75e4` | systeme generation automatique README 20 langues + status.json | 9 minutes ago |
-| `930a136` | metrics tracker — analyse codebase, ratio code/contenu, historique evolution | 10 minutes ago |
-| `faa80e7` | metrics tracker — analyse codebase, ratio code/contenu, historique evolution | 10 minutes ago |
-| `8d29029` | metrics tracker — analyse codebase, ratio code/contenu, historique evolution | 11 minutes ago |
-| `1130aa6` | 1 base OverlayPlayer + 3 specializations (PlayerJob, PlayerLive, PlayerStudio) + 5 overlays | 16 minutes ago |
-| `6023ce4` | Mise à jour | 23 minutes ago |
-| `0255f3d` | lien Fonctionnalites pointe vers featuresHref au lieu de downloadHref | 30 minutes ago |
+| `9b9a495` | 🐛 sanitize messages commit pour le public | 4 minutes ago |
+| `b8c75e4` | ✨ systeme generation automatique README 20 langues + status.json | 12 minutes ago |
+| `930a136` | ✨ metrics tracker — analyse codebase, ratio code/contenu, historique evolution | 13 minutes ago |
+| `faa80e7` | ✨ metrics tracker — analyse codebase, ratio code/contenu, historique evolution | 13 minutes ago |
+| `8d29029` | ✨ metrics tracker — analyse codebase, ratio code/contenu, historique evolution | 14 minutes ago |
+| `1130aa6` | ✨ 1 base OverlayPlayer + 3 specializations (PlayerJob, PlayerLive, PlayerStudio) + 5 overlays | 19 minutes ago |
+| `6023ce4` | 🔄 Mise à jour | 26 minutes ago |
+| `0255f3d` | 🐛 lien Fonctionnalites pointe vers featuresHref au lieu de downloadHref | 33 minutes ago |
 
 ## 🔗 Liens
 
