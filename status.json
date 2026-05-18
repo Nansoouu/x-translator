@@ -1,0 +1,36 @@
+{
+  "version": "0.1.234",
+  "updated_at": "2026-05-18T15:19:52.049751+00:00",
+  "languages": {
+    "fr": 100.0,
+    "en": 99.0,
+    "es": 97.7,
+    "de": 99.3,
+    "it": 99.3,
+    "pt": 99.3,
+    "nl": 99.3,
+    "pl": 99.3,
+    "ru": 99.3,
+    "uk": 99.3,
+    "ar": 99.3,
+    "fa": 99.3,
+    "he": 99.3,
+    "hi": 99.3,
+    "zh": 99.3,
+    "ja": 99.3,
+    "ko": 99.3,
+    "vi": 99.3,
+    "id": 99.3,
+    "tr": 99.3
+  },
+  "features": {
+    "translate": "stable",
+    "download": "stable",
+    "studio": "beta",
+    "live": "dev",
+    "tts": "beta",
+    "api": "planned"
+  },
+  "anomalies": 53,
+  "total_keys": 2038
+}
