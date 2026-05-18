@@ -100,6 +100,6 @@ Subtitled video ready to watch, export or edit.
 ---
 
 <p align="center">
-  <sub>Built with ☕ by <a href="https://github.com/Nansoouu">Nans</a> · 
+  <sub>Built with ❤️ by <a href="https://github.com/Nansoouu">Nansoouu</a> · 
   <a href="https://spottedyou.org">spottedyou.org</a></sub>
 </p>
