@@ -4,7 +4,7 @@
 
 ## 🎯 Présentation
 
-x-translator est une plateforme de traduction et sous-titrage vidéo automatique. Elle permet de traduire, télécharger, éditer et diffuser des vidéos dans plus de 20 langues.
+x-translator is an automatic video translation and subtitling platform. Translate, download, edit and broadcast videos in over 20 languages.
 
 **Version :** `0.1.237`  
 **Langues supportées :** 20 🌍  
@@ -14,16 +14,16 @@ x-translator est une plateforme de traduction et sous-titrage vidéo automatique
 
 | Statut | Fonctionnalité | Description |
 |--------|---------------|-------------|
-| ✅ | Traduction vidéo | Sous-titrez et traduisez vos vidéos en 20+ langues en un clic |
-| ✅ | Téléchargement vidéo | Téléchargez des vidéos depuis YouTube, TikTok, Instagram et 50+ plateformes |
-| 🚧 | Studio d'édition | Montez, éditez et personnalisez vos vidéos avec des overlays, watermarks et sous-titres |
-| 🔧 | TV en direct | Regardez et enregistrez 50 chaînes TV en direct dans le monde |
-| 🚧 | Doublage vocal | Ajoutez une voix synthétique dans la langue de votre choix |
-| 📋 | API publique | Intégrez la traduction vidéo dans vos propres outils |
+| ✅ | Video Translation | Subtitle and translate your videos in 20+ languages in one click |
+| ✅ | Video Download | Download videos from YouTube, TikTok, Instagram and 50+ platforms |
+| 🚧 | Editing Studio | Edit and customize your videos with overlays, watermarks and subtitles |
+| 🔧 | Live TV | Watch and record 50 live TV channels worldwide |
+| 🚧 | Voice Dubbing | Add AI voiceover in your chosen language |
+| 📋 | Public API | Integrate video translation into your own tools |
 
 ## 🌍 Couverture linguistique
 
-Le tableau ci-dessous indique le pourcentage de complétion de chaque langue. Cliquez sur un lien pour lire la page dédiée.
+The table below shows the completion percentage for each language. Click a link to read the dedicated page.
 
 | Drapeau | Langue | Code | Couverture | Lire la suite |
 |---------|-------|------|------------|---------------|
