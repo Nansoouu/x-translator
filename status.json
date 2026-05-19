@@ -1,6 +1,6 @@
 {
-  "version": "0.1.245",
-  "updated_at": "2026-05-18T23:56:23.620755+00:00",
+  "version": "0.1.242",
+  "updated_at": "2026-05-19T00:04:46.773009+00:00",
   "languages": {
     "fr": 100.0,
     "en": 100.2,
@@ -32,5 +32,5 @@
     "api": "planned"
   },
   "anomalies": 53,
-  "total_keys": 2110
+  "total_keys": 2101
 }
