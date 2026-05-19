@@ -6,13 +6,13 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/version-0.1.242-2ea043?style=flat-square&logo=semver)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-0.1.244-2ea043?style=flat-square&logo=semver)](CHANGELOG.md)
 [![Licence](https://img.shields.io/badge/licence-MIT-brightgreen?style=flat-square&logo=open-source-initiative)](LICENSE)
 [![Traduit en](https://img.shields.io/badge/traduit_en-20_langues-FF6B6B?style=flat-square&logo=googletranslate)](readmes/)
 [![Gratuit](https://img.shields.io/badge/gratuit-1h30_jour-00C853?style=flat-square&logo=heart)](https://spottedyou.org)
 
 </div>
-> _Derniere mise a jour : 19/05/2026 00:04:46_
+> _Derniere mise a jour : 19/05/2026 00:55:33_
 
 ---
 
